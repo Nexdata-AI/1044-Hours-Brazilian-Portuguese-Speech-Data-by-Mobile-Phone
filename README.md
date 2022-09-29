@@ -1,4 +1,4 @@
-# 1-044-Hours-Brazilian-Portuguese-Speech-Data-by-Mobile-Phone
+# 1044-Hours-Brazilian-Portuguese-Speech-Data-by-Mobile-Phone
 https://www.datatang.ai/datasets/954
 ## Description
 The data volumn is 1044 hours and is recorded by 2038 Brazilian native speakers. The recording text is designed by linguistic experts, which covers general interactive, in-car and home category. The texts are manually proofread with high accuracy. Recording devices are mainstream Android phones and iPhones.
